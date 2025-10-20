@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow. The branches must flow.
+I am a fairly mannered nerd.
